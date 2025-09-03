@@ -1,0 +1,15 @@
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\bin\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.exe
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\bin\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.deps.json
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\bin\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.runtimeconfig.json
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\bin\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.dll
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\bin\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.pdb
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\obj\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.GeneratedMSBuildEditorConfig.editorconfig
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\obj\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.AssemblyInfoInputs.cache
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\obj\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.AssemblyInfo.cs
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\obj\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.csproj.CoreCompileInputs.cache
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\obj\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.sourcelink.json
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\obj\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.dll
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\obj\Debug\net9.0\refint\lab-2-merge-sort-kadenbrown5-1.dll
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\obj\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.pdb
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\obj\Debug\net9.0\lab-2-merge-sort-kadenbrown5-1.genruntimeconfig.cache
+k:\CodingPractice\Lab\lab-2-merge-sort-kadenbrown5-1\obj\Debug\net9.0\ref\lab-2-merge-sort-kadenbrown5-1.dll
