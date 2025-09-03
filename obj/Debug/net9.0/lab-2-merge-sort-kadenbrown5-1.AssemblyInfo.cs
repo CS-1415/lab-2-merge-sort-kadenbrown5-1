@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-2-merge-sort-kadenbrown5-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60e68cbcd42bb9af9988d33afad6b4a938f9fb22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a151d8b89e1eb374f2d244d01119388f85e5c108")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-2-merge-sort-kadenbrown5-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-2-merge-sort-kadenbrown5-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

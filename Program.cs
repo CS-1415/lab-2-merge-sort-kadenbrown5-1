@@ -1,10 +1,6 @@
 ﻿using System.Reflection.Metadata;
 using System.Runtime.CompilerServices;
 
-int[] sortedarray = CombineSortedArrays(new int[] { 1, 3, 5 }, new int[] { -5, 3, 6, 7 });
-for(int i = 0; i < sortedarray.Length; i++)
-    System.Console.WriteLine(sortedarray[i]);
-
 
 System.Diagnostics.Debug.Assert(Enumerable.SequenceEqual(
     CombineSortedArrays(new int[]{1, 3, 5}, new int[]{-5, 3, 6, 7}),
@@ -13,6 +9,15 @@ System.Diagnostics.Debug.Assert(Enumerable.SequenceEqual(
 System.Diagnostics.Debug.Assert(Enumerable.SequenceEqual(
     CombineSortedArrays(new int[] { -5, 2, 5, 8, 10 }, new int[] { 1, 2, 5 }),
     new int[] { -5, 1, 2, 2, 5, 5, 8, 10 }));
+
+System.Diagnostics.Debug.Assert(Enumerable.SequenceEqual(
+    SortViaMergesort(new int[]{6, 1, -5, 3, 5, 3, 7}),
+    new int[]{-5, 1, 3, 3, 5, 6, 7}));
+
+System.Diagnostics.Debug.Assert(Enumerable.SequenceEqual(
+    SortViaMergesort(new int[]{1, 10, -5, 2, 5, 2, 5, 8}),
+    new int[]{-5, 1, 2, 2, 5, 5, 8, 10}));
+
 
 int[] CombineSortedArrays(int[] a, int [] b)
 {
@@ -35,6 +40,17 @@ int[] CombineSortedArrays(int[] a, int [] b)
     }
 
     return combined;
+}
+
+int[] SortViaMergesort(int[] a)
+{
+    int middle = a.Length / 2;
+    int[] firstHalf = a[0..middle];
+    int[] secondHalf = a[middle..a.Length];
+    if (a.Length < 2)
+        return a;
+    else
+        return CombineSortedArrays(SortViaMergesort(firstHalf), SortViaMergesort(secondHalf));
 }
 
 
